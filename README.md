@@ -8,12 +8,11 @@ Decision Scientist with 2.5 years of experience crafting data-driven solutions, 
 
 Skills : SQL | R | Power BI | Python | Excel | Data analytics | A/B Testing | Gitlab | Snowflake
 
-- 🔭 I’m currently not working
-- 🌱 I’m currently learning Tableau and Figma
-- 👯 I’m looking to collaborate on Data Analytics and Data Science problems ...
+- 🔭 I’m currently looking for Data Analyst/ Business Analyst roles
+- 🌱 I’m currently learning Tableau and Figma parallely
+- 👯 I’m looking to collaborate on Data Analytics and Data Science problem statements ...
 - 💬 Ask me about Data Analytics and Data Science
 - 📫 How to reach me: maheshchinna3325@gmail.com
-- 😄 Pronouns: He/Him
 
 <!--
 **maheshbabu3325/maheshbabu3325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
